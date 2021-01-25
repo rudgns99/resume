@@ -10,8 +10,8 @@ sass:
 
 # Resume settings
 resume_avatar:                  "true"
-resume_name:                    "Kim Kyung Hoon"
-resume_title:                   "VP of Global Communications"
+resume_name:                    "김경훈(Kim Kyung Hoon)"
+resume_title:                   "김경훈 경력 기술서"
 
 # used for the contact button in _layouts/resume.html
 resume_contact_email:           "rudgns99@naver.com"
