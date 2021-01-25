@@ -23,7 +23,20 @@ resume_contact_address:         "742 Evergreen Terrace, Springfield"
 resume_header_contact_info:     "742 Evergreen Terrace, Springfield • 555-7334 • lisasimpson@youremailaddress.com"
 display_header_contact_info:    "false"
 
-resume_header_intro: "<p>This is the executive summary. You should write a few brief, concise, and meaningful sentences about yourself from a professional context, and your immediate career goals. Make the length appropriate for your needs, but keep it brief and concise</p>"
+resume_header_intro: "<p>[㈜지아이티-현대그룹사 SW개발팀 선임 연구원] 2017.03~2021.
+1.	제품 연동 서버 개발 및 유지보수 / Visual Studio, MS SQL, SVN
+-	제품 인증, 집계, 업데이트 등 서버 API 개발
+-	제품 업데이트 배포 관리 시스템 개발
+2.	서버 구축 / Windows Server, Windows 원격, Robo Mongo
+
+[㈜지아이티 웹 서비스팀 연구원, IT 설계팀 연구원] 2012.01~2017.03
+1.	사내 업무 시스템 개발 및 유지보수 / Visual Studio, MS SQL, SVN
+2.	고객 서비스 사이트 개발 및 유지보수 / Visual Studio, MS SQL, SVN
+3.	자동차 진단기 제품 연동 서버 개발 및 유지보수 / Visual Studio, MS SQL, SVN
+-	제품 인증, 제품 업데이트 등 서버 API 개발
+-	제품 업데이트 배포 관리 시스템 개발
+4.	서버 구축 관리 / Windows Server, Linux Server, Putty, Windows 원격
+</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
