@@ -2,15 +2,59 @@
 # uncomment the urls if you wish to display them, and add your own URL
 
 # jazznotes.io
-- project: jazznotes.io
-  role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
+- project: 서버 모니터링 시스템
+  role: 시스템 엔지니어
+  duration: 2012.12~2013.5
   # url: "#"
-  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
+  description: 서버 리소스 및 네트워크 트래픽 모니터링 사이트(서버구축,설계,개발,유지보수,Linux Server, MRTG).
 
 # Springfield Community Outreach Group
-- project: Springfield Community Outreach Group
-  role: Co-Founder & Organizer
-  duration: 2007 &mdash; Present
+- project: Global CDN(Akamai) 도입
+  role: 시스템 엔지니어
+  duration: 2013.10~2014.1
   # url: "#"
-  description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
+  description: 해외 제품 업데이트 속도 개선을 위해 Global CDN 제안 및 도입 적용(테스트 및 업체 선정,서버 설정, 연동,서버 API 개발,Asp.net(C#), Windows Server, IIS)
+
+# Springfield Community Outreach Group
+- project: KT Ucloud 서버 도입
+  role: 시스템 엔지니어
+  duration: 2012.12~2014.06
+  # url: "#"
+  description: IDC 서버를 KT Ucloud 서버로 이전하여 서비스 아키텍쳐 설계 및 테스트부터 서비스 이전하는 작업 참여 
+
+
+# Springfield Community Outreach Group
+- project: 차량 보안 인증서 프로젝트
+  role: 개발  & 시스템 엔지니어
+  duration: 2015.12~2016.03
+  # url: "#"
+  description: 승용차 특정 모델 차량 진단기에 차량인증서를 삽입 후 진단 할수 있게 차량 통신 지원(현대 자동차 프로젝트),Windows 서버 구축 및 통합테스트,	C#,IIS,MSSQL 
+
+
+
+  # Springfield Community Outreach Group
+- project: 커넥티비티 제품 서버 구축 및 개발
+  role: 개발 & 시스템 엔지니어
+  duration: 2016.03~2017.1
+  # url: "#"
+  description: 푸시 메세지 API 구축 , 자동차와 DCS 장비, 스마트폰 앱을 연결하여 운전패턴을 분석하여 운전자에게 도움이 되는 정보를 제공 자동차 데이터 수집, 집계 및 업데이트 서버 구축
+
+   
+
+  # Springfield Community Outreach Group
+- project: 북미 지사 파견
+  role: 개발 & 시스템 엔지니어
+  duration: 2017.1~2018.12
+  url: "https://www.hyundaitechinfo.com"
+  description: 북미 HMA  GSW사이트 개발 및 유지보수,Asp.net(C#), Javascript, Jquery, MS SQL, Windows Server, IIS
+
+
+
+  # Springfield Community Outreach Group
+- project: 현대기아 Dlogger 웹사이트 구축
+  role: 개발 & 시스템 엔지니어
+  duration: 2019.1~2020.12
+  url: "https://dlogger.kia.com"
+  description: 웹페이지 개발 , 모의 해킹 대응,머신 러닝 및 AI 서버를 활용한 웹사이트 구축,Asp.net(C#), Javascript, Jquery, MS SQL, Windows Server, IIS
+
+
