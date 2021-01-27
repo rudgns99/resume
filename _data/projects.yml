@@ -12,7 +12,7 @@
 - project: Global CDN(Akamai) 도입
   role: 시스템 엔지니어
   duration: 2013.10~2014.1
-  # url: "#"
+  url: "images/cdn.pdf"
   description: 해외 제품 업데이트 속도 개선을 위해 Global CDN 제안 및 도입 적용(테스트 및 업체 선정,서버 설정, 연동,서버 API 개발,Asp.net(C#), Windows Server, IIS)
 
 # Springfield Community Outreach Group
