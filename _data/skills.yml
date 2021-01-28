@@ -4,6 +4,9 @@
 - skill: MSSQL
   description: 쿼리 튜닝 ,DB 보안 적용 경험
 
+- skill: Log Parser 
+  description: log parser 를 이용한 windows event 또는 mssql 을 통하여 통계 경험
+
 - skill: Powershell
   description: 자동화 서비스(통계,이메일 자동화)
 
@@ -12,7 +15,7 @@
 
 # Communications strategy
 - skill: Angular ,Angular JS
-  description: Typescript Angluer 를 이용한 웹페이지 역량 강화,
+  description: Typescript Angluer 를 이용한 웹페이지 역량 강화
 
 # Digital content development and creation
 - skill: Mongodb
