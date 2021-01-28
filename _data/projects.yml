@@ -1,5 +1,11 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
+ # Springfield Community Outreach Group
+- project: 프로젝트별 모의해킹 대응(프로젝트 별 상이)
+  role: 개발 & 시스템 엔지니어
+  duration: 2014~2021
+  url: "images/hacking.pdf"
+  description: 모의해킹 대응,소스 수정 
 
 # jazznotes.io
 - project: 서버 모니터링 시스템
@@ -56,5 +62,4 @@
   duration: 2019.1~2020.12
   url: "https://dlogger.kia.com"
   description: 웹페이지 개발 , 모의 해킹 대응,머신 러닝 및 AI 서버를 활용한 웹사이트 구축,Asp.net(C#), Javascript, Jquery, MS SQL, Windows Server, IIS
-
 
