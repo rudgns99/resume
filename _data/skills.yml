@@ -1,25 +1,14 @@
-- skill: C#(ASP.NET),Jquery,AJAX,javascript
-  description: 주 개발언어,프로젝트 다수 경험 및 모의 해킹 대비 소스보안적용 다수 경험
+- skill: Programming Language
+  description: C#(ASP.NET),Jquery,AJAX,javascript,Angular JS , Angular,Powershell,Node js
 
-- skill: MSSQL
-  description: 쿼리 튜닝 ,DB 보안 적용 경험
+- skill: Server
+  description: Windows server, Linux ,Mongo DB(Replicaset + Sharding), MSSQL ,Maria DB
 
-- skill: Log Parser 
-  description: log parser 를 이용한 windows event 또는 mssql 을 통하여 통계 경험
+- skill: Tooling /DevOps
+  description: Github, SVN ,Log parser
 
-- skill: Powershell
-  description: 자동화 서비스(통계,이메일 자동화)
+- skill: Environment
+  description: AWS, KT-BIZ Cloud , Linux, Windows
 
-- skill: 영어 회화
-  description: 북미지사에 원어민들과 영어로 업무 협업.
-
-# Communications strategy
-- skill: Angular ,Angular JS
-  description: Typescript Angluer 를 이용한 웹페이지 역량 강화
-
-# Digital content development and creation
-- skill: Mongodb
-  description: Replicaset + Sharding 구성 
-
-- skill: Node js 
-  description: Node js+MSSQL 를 통한 CRUD 웹사이트 개발 
+- skill: ETC
+  description: Jira 
