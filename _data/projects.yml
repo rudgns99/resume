@@ -6,14 +6,16 @@
   role: 시스템 엔지니어
   duration: 2012.12~2013.5
   #url: "images/mrtg.PNG"
-  description: 서버 리소스 및 네트워크 트래픽 모니터링 사이트(서버구축,설계,개발,유지보수,Linux Server, MRTG).
+  description: 서버 리소스 및 네트워크 트래픽 모니터링 사이트
+  <br>(서버구축,설계,개발,유지보수,Linux Server, MRTG).</br>
   
 # Springfield Community Outreach Group
 - project: Global CDN(Akamai) 도입
   role: 시스템 엔지니어
   duration: 2013.10~2014.1
   #url: "images/cdn.pdf"
-  description: 해외 제품 업데이트 속도 개선을 위해 Global CDN 제안 및 도입 적용(테스트 및 업체 선정,서버 설정, 연동,서버 API 개발,Asp.net(C#), Windows Server, IIS)
+  description: 해외 제품 업데이트 속도 개선을 위해 Global CDN 제안 및 도입 적용
+<br>(테스트 및 업체 선정,서버 설정, 연동,서버 API 개발,Asp.net(C#), Windows Server, IIS)</br>
 
 # Springfield Community Outreach Group
 - project: KT Ucloud 서버 도입
@@ -28,7 +30,8 @@
   role: 개발  & 시스템 엔지니어
   duration: 2015.12~2016.03
   # url: "#"
-  description: 승용차 특정 모델 차량 진단기에 차량인증서를 삽입 후 진단 할수 있게 차량 통신 지원(현대 자동차 프로젝트)(Windows Server,Asp.net(C#),IIS, MSSQL)
+  description: 승용차 특정 모델 차량 진단기에 차량인증서를 삽입 후 진단 할수 있게 차량 통신 지원(현대 자동차 프로젝트)
+  <br>(Windows Server,Asp.net(C#),IIS, MSSQL)</br>
 
 
   # Springfield Community Outreach Group
@@ -36,7 +39,8 @@
   role: 개발 & 시스템 엔지니어
   duration: 2016.03~2017.1
   # url: "#"
-  description: 푸시 메세지 API 구축 , 자동차와 DCS 장비, 스마트폰 앱을 연결하여 운전패턴을 분석하여 운전자에게 도움이 되는 정보를 제공 자동차 데이터 수집, 집계 및 업데이트 서버 구축(Windows Server,Asp.net(C#),IIS, MSSQL)
+  description: 푸시 메세지 API 구축 , 자동차와 DCS 장비, 스마트폰 앱을 연결하여 운전패턴을 분석하여 운전자에게 도움이 되는 정보를 제공 자동차 데이터 수집, 집계 및 업데이트 서버 구축
+  <br>(Windows Server,Asp.net(C#),IIS, MSSQL)</br>
    
 
   # Springfield Community Outreach Group
@@ -44,7 +48,8 @@
   role: 개발 & 시스템 엔지니어
   duration: 2017.1~2018.12
   #url: "https://www.hyundaitechinfo.com"
-  description: 북미 HMA  GSW사이트 개발 및 유지보수(Asp.net(C#), Javascript, Jquery, MS SQL, Windows Server, IIS)
+  description: 북미 HMA  GSW사이트 개발 및 유지보수
+  <br>(Asp.net(C#), Javascript, Jquery, MS SQL, Windows Server, IIS)</br>
 
 
 
@@ -53,5 +58,6 @@
   role: 개발 & 시스템 엔지니어
   duration: 2019.1~2020.12
   #url: "https://dlogger.kia.com"
-  description: 웹페이지 개발 , 모의 해킹 대응,머신 러닝 및 AI 서버를 활용한 웹사이트 구축(Asp.net(C#), Javascript, Jquery, MS SQL, Windows Server, IIS)
+  description: 웹페이지 개발 , 모의 해킹 대응,머신 러닝 및 AI 서버를 활용한 웹사이트 구축
+  <br>(Asp.net(C#), Javascript, Jquery, MS SQL, Windows Server, IIS)</br>
 
