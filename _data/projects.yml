@@ -5,7 +5,7 @@
   role: 개발 & 시스템 엔지니어
   duration: 2014~2021
   #url: "images/hacking.pdf"
-  description: -모의해킹 대응,소스 수정<br>-Web backend(ASP.NET)</br><br>-Web frontend(HTML,Jquery)</br><br> <img src="images/mrtg.PNG" /></br>
+  description: -모의해킹 대응,소스 수정<br>-Web backend(ASP.NET)</br><br>-Web frontend(HTML,Jquery)</br>
 
 # jazznotes.io
 - project: 서버 모니터링 시스템
