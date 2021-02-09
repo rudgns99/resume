@@ -6,7 +6,7 @@
   role: 시스템 엔지니어
   duration: 2012.12~2013.5
   #url: "images/mrtg.PNG"
-  description: 서버 리소스 및 네트워크 트래픽 모니터링 사이트<br>(서버구축,설계,개발,유지보수,Linux Server, MRTG).</br><br> <img src="images/mrtg.PNG" /></br>
+  description: 서버 리소스 및 네트워크 트래픽 모니터링 사이트<br>(서버구축,설계,개발,유지보수,Linux Server, MRTG).</br><br> <img src="images/mrtg.PNG" style="width:50%;height:50%;" /></br>
   
 # Springfield Community Outreach Group
 - project: Global CDN(Akamai) 도입
