@@ -13,4 +13,4 @@
 - award: 웹취약점, 공격코드 분석 
   #organization: Springfield High School
   #year: 2004
-  summary: 웹 취약점 분석 하여 공격코드 분석 및 보안 <br>주요 공격코드 분석:XSS처리,sql Injection,매개변수 변조..등</br><br> ex)XSS 화면<img src="images/xss.JPG" style="width:50%;height:50%;" /></br>
+  summary: <br>주요 공격코드 분석:XSS처리,SQL INJECTION,매개변수 변조..등</br><br><img src="images/xss.JPG" style="width:50%;height:50%;" /></br>
