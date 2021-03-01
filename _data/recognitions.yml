@@ -13,4 +13,4 @@
 - award: 웹취약점, 공격코드 분석 
   #organization: Springfield High School
   #year: 2004
-  summary: 웹 취약점 분석 하여 공격코드 분석 및 보안 <br> <img src="images/xss.JPG" style="width:50%;height:50%;" /></br>
+  summary: 웹 취약점 분석 하여 공격코드 분석 및 보안 <br> <img src="images/xss.JPG" style="width:50%;height:50%;" /></br><br>대응방안:xss가 가능한 특수문자필터링</br>
