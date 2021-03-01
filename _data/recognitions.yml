@@ -10,3 +10,7 @@
   summary: 서버 관리상의 문제(트래픽 과부하, 서버 장애, 증설 등)를 해결하기 쉬운 클라우드 서버(KT Ucloud) 도입을 제안하였으며 테스트부터, IDC 에서 운영중인 서비스 이전 및 적용까지 전체 프로세스를 담당하여 성공적으로 처리하였습니다.
 
 
+- award: 웹취약점, 공격코드 분석 
+  #organization: Springfield High School
+  #year: 2004
+  summary: 웹 취약점 분석 하여 공격코드 분석 및 보안 <br> <img src="images/xss.JPG" style="width:50%;height:50%;" /></br>
