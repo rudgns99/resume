@@ -2,7 +2,7 @@
 - award: Global Download 속도 개선
   # organization: Springfield Young Professionals
   #year: 2010, 2014
-  summary: 적은 비용, 짧은 기간 안에 자동차 진단기 제품 업데이트 서비스를 전 세계 지역에 가능하도록 해야 되는 상황이 발생하여 이를 해결하기 위해 Global CDN(Akamai) 도입을 제안하였으며 테스트부터 서비스 적용까지 성공적으로 처리 하였습니다.
+  summary: 적은 비용, 짧은 기간 안에 자동차 진단기 제품 업데이트 서비스를 전 세계 지역에 가능하도록 해야 되는 상황이 발생하여 이를 해결하기 위해 Global CDN(Akamai) 도입을 제안하였으며 테스트부터 서비스 적용까지 성공적으로 처리 하였습니다.<br><a href="https://rudgns99.tistory.com/13">Global CDN 상세설명(블로그)</a></br>
   url : https://rudgns99.tistory.com/13
   
 - award: 서버 트레픽 문제 개선
@@ -14,5 +14,5 @@
 - award: 웹취약점, 공격코드 분석 
   #organization: Springfield High School
   #year: 2004
-  summary: <br>주요 공격코드 분석:XSS처리,SQL INJECTION,매개변수 변조..등</br>
+  summary: <br>주요 공격코드 분석:XSS처리,SQL INJECTION,매개변수 변조..등</br><br><a href="https://rudgns99.tistory.com/9">웹취약점 기술설명(블로그)</a></br>
   url : https://rudgns99.tistory.com/9
