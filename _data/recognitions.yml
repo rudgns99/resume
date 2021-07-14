@@ -13,4 +13,4 @@
 - award: 웹취약점, 공격코드 분석 
   #organization: Springfield High School
   #year: 2004
-  summary: <br>주요 공격코드 분석:XSS처리,SQL INJECTION,매개변수 변조..등</br><br><img src="images/xss.JPG" style="width:50%;height:50%;" /></br>
+  summary: <br>주요 공격코드 분석:XSS처리,SQL INJECTION,매개변수 변조..등</br><br><a href="https://rudgns99.tistory.com">김경훈 기술 블로그</a></br>
